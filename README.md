@@ -12,7 +12,7 @@
 
 - 💻 &nbsp; Python | C++ | C | Fortran  
 - 🌐 &nbsp; HTML | CSS | JavaScript
-- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🛢 &nbsp; MySQL | Firebase
 - 🔧 &nbsp; Qt | Arduino | Anaconda | Pytorch | Opencv | Docker |  Git & Github
 - 🖥 &nbsp; SolidWorks | AutoCAD | Cura
 
