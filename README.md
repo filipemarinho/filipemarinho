@@ -13,7 +13,7 @@
 - 💻 &nbsp; Python | C++ | C | Fortran  
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Qt | Anaconda | Pytorch | Opencv | Docker |  Git & Github
+- 🔧 &nbsp; Qt | Arduino | Anaconda | Pytorch | Opencv | Docker |  Git & Github
 - 🖥 &nbsp; SolidWorks | AutoCAD | Cura
 
 <br>
