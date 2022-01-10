@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently getting a master degree in Computational Physics. 
+- 🎓 &nbsp; I’m currently getting a master degree in Computational Physics. 
 - 🤔 &nbsp; Exploring new technologies and developing software & hardware solutions and simple hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🔭 &nbsp; Studying Computer Vision, Physics, Optics and Deep Learning.
 - 💼 &nbsp; Python/C++ developer for desktop apps and embbebed devices.
 - 🌱 &nbsp; Enthusiast in Sustainability and 3d printing.
 
