@@ -11,8 +11,6 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C++ | C | Fortran  
-- 🌐 &nbsp; HTML | CSS | JavaScript
-- 🛢 &nbsp; MySQL | Firebase
 - 🔧 &nbsp; Qt | Arduino | Anaconda | Pytorch | Opencv | Docker |  Git & Github
 - 🖥 &nbsp; SolidWorks | AutoCAD | Cura
 
