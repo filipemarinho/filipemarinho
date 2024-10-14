@@ -2,7 +2,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; I’m currently getting a master degree in Computational Physics. 
+- 🎓 &nbsp;  I recently completed my master's degree in Computational Physics. Exploring the implementation of state-of-the-art object detection models to develop a multi-spectral system for smart spraying. This system aims to significantly reduce herbicide usage in agriculture.
+- :books: &nbsp; During my bachelor degree in Computational Physics, I developed innovative products in the field of ophthalmology using cutting-edge computer vision and digital image processing techniques.
 - 🤔 &nbsp; Exploring new technologies and developing software & hardware solutions and simple hacks.
 - 🔭 &nbsp; Studying Computer Vision, Physics, Optics and Deep Learning.
 - 💼 &nbsp; Python/C++ developer for desktop apps and embbebed devices.
@@ -27,3 +28,5 @@
 &nbsp; <a href="https://www.linkedin.com/in/flipemarinho/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:filipemarinho@usp.br" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+Explore my machine learning experiments and visualizations on Wandb: https://wandb.ai/filipemarinho
