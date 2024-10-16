@@ -30,3 +30,5 @@
 </p>
 
 Explore my machine learning experiments and visualizations on Wandb: https://wandb.ai/filipemarinho
+
+Explore my projects and certifications in [my Coursera Profile](https://www.coursera.org/user/dc0455c3d61b84ecaa602b86095c84b0)
