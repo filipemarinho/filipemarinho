@@ -12,7 +12,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C++ | C | Fortran  
-- 🔧 &nbsp; Qt | Arduino | Anaconda | Pytorch | Opencv | Docker |  Git & Github
+- 🔧 &nbsp; Qt | Pytorch | TensorFlow | Pytorch | Opencv | Docker | Pandas | FastAPI | NVIDIA Triton
+- :page_with_curl: &nbsp; Git | Github | Gitlab
 - 🖥 &nbsp; SolidWorks | AutoCAD | Cura
 
 <br>
